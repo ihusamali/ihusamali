@@ -22,7 +22,7 @@ I’m looking for **Werkstudent (working-student) roles in applied AI / AI engin
 ## Product delivery experience: Android
 
 - Kotlin, Java, Android Jetpack, CameraX, Room, Coroutines, and FFmpeg/C++
-- Contributed to a published Android audio editor with **1M+ Google Play downloads**
+- Independently built and maintained an Android audio editor at Funsol; it crossed **1M+ Google Play downloads during my tenure**
 
 ## Selected work
 
@@ -30,7 +30,7 @@ I’m looking for **Werkstudent (working-student) roles in applied AI / AI engin
 | --- | --- |
 | [Agent Harness](https://github.com/ihusamali/agent-harness) | Open-source tool-using agent with a sandboxed workspace, MCP support, and persistent memory |
 | [OptoNav Website](https://github.com/ihusamali/optonav-website) | Live B2B product website: [optonav.com](https://optonav.com) |
-| [Audio Editor: Google Play](https://play.google.com/store/apps/details?id=com.app.resort.audio.cutter.music.editor) | Published Android audio editor · 1M+ downloads · [Engineering case study](https://github.com/ihusamali/audio-editor-android) |
+| [Audio Editor: Google Play](https://play.google.com/store/apps/details?id=com.app.resort.audio.cutter.music.editor) | Sole developer at Funsol; built and maintained it through 1M+ downloads during my tenure · [Engineering case study](https://github.com/ihusamali/audio-editor-android) |
 | [WaveControl](https://github.com/ihusamali/WaveControl) | Android hand-gesture interaction using Kotlin, CameraX, MediaPipe, and accessibility services |
 | [GPS Camera Timestamp](https://github.com/ihusamali/gps-camera-timestamp-android) | Android camera project focused on location and timestamp overlays |
 | [Mobile Development Learning Labs](https://github.com/ihusamali/mobile-development-learning-labs) | 19 Android and Flutter learning projects, organized by topic |
