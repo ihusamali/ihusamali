@@ -25,6 +25,8 @@ I’m currently looking for **Werkstudent (working-student) roles in Germany**, 
 | [EVen B2B E-Commerce](https://github.com/ihusamali/even-b2b-ecommerce) | University project exploring bulk purchasing and vendor workflows |
 | [OptoNav Website](https://github.com/ihusamali/optonav-website) | Live B2B product website: [optonav.com](https://optonav.com) |
 
+| [Mobile Development Learning Labs](https://github.com/ihusamali/mobile-development-learning-labs) | 19 Android and Flutter learning projects, each kept in its own folder |
+
 ## Education & languages
 
 - M.Sc. Computer Science, Universität Passau
