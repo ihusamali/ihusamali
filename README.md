@@ -3,7 +3,7 @@
 **Applied AI & Software Engineer**  
 M.Sc. Computer Science student at Universität Passau · Passau, Germany
 
-I build reliable software, with my current focus on **applied AI and LLM-powered systems**. My open-source work explores tool-using agents, MCP integrations, and persistent memory. I also bring full-stack product experience and a record of shipping Android apps used at scale.
+I focus on **applied AI and system design**—building tool-using agents and dependable full-stack systems. At ETA Devs, I helped scale services to **10K+ active user sessions at 99.9% uptime**. At Funsol, I was the sole developer who built and maintained an Android audio editor that crossed **1M+ Google Play downloads during my tenure**.
 
 I’m looking for **Werkstudent (working-student) roles in applied AI / AI engineering in Germany**, as well as full-time opportunities. My next preference is full-stack engineering, especially teams building AI-enabled products. I also bring production Android experience.
 
@@ -29,7 +29,6 @@ I’m looking for **Werkstudent (working-student) roles in applied AI / AI engin
 | Project | What it demonstrates |
 | --- | --- |
 | [Agent Harness](https://github.com/ihusamali/agent-harness) | Open-source tool-using agent with a sandboxed workspace, MCP support, and persistent memory |
-| [OptoNav Website](https://github.com/ihusamali/optonav-website) | Live B2B product website: [optonav.com](https://optonav.com) |
 | [Audio Editor: Google Play](https://play.google.com/store/apps/details?id=com.app.resort.audio.cutter.music.editor) | Sole developer at Funsol; built and maintained it through 1M+ downloads during my tenure · [Engineering case study](https://github.com/ihusamali/audio-editor-android) |
 | [WaveControl](https://github.com/ihusamali/WaveControl) | Android hand-gesture interaction using Kotlin, CameraX, MediaPipe, and accessibility services |
 | [GPS Camera Timestamp](https://github.com/ihusamali/gps-camera-timestamp-android) | Android camera project focused on location and timestamp overlays |
