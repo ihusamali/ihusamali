@@ -29,10 +29,10 @@ I’m looking for **Werkstudent (working-student) roles in applied AI / AI engin
 | Project | What it demonstrates |
 | --- | --- |
 | [Agent Harness](https://github.com/ihusamali/agent-harness) | Open-source tool-using agent with a sandboxed workspace, MCP support, and persistent memory |
+| [sortd — Downloads Organizer](https://github.com/ihusamali/sortd-downloads-organizer) | Local-first Python CLI that combines rules and PDF classification, with optional Ollama/Gemini backends, duplicate handling, and reversible file moves |
 | [Audio Editor: Google Play](https://play.google.com/store/apps/details?id=com.app.resort.audio.cutter.music.editor) | Sole developer at Funsol; built and maintained it through 1M+ downloads during my tenure · [Engineering case study](https://github.com/ihusamali/audio-editor-android) |
 | [WaveControl](https://github.com/ihusamali/WaveControl) | Android hand-gesture interaction using Kotlin, CameraX, MediaPipe, and accessibility services |
 | [GPS Camera Timestamp](https://github.com/ihusamali/gps-camera-timestamp-android) | Android camera project focused on location and timestamp overlays |
-| [Mobile Development Learning Labs](https://github.com/ihusamali/mobile-development-learning-labs) | 19 Android and Flutter learning projects, organized by topic |
 
 ## Education & languages
 
